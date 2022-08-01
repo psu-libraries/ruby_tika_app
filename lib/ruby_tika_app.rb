@@ -7,7 +7,7 @@ require 'stringio'
 require 'open4'
 
 class RubyTikaApp
-  TIKA_APP_VERSION = '2.2.1'
+  TIKA_APP_VERSION = '2.4.1'
 
   class Error < RuntimeError; end
 
